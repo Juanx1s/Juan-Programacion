@@ -15,7 +15,7 @@
     "edad": 45,
     "genero": "M",
     "provincia": "Cartago",
-    "canton": "Pacayas",
+    "canton": "Pacayas",  
     "enfermedades": ["gastritis"],
     "medicamentos": ["antiacido", "omeprazol"]
   },
